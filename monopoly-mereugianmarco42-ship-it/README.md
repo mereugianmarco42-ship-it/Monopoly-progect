@@ -31,3 +31,6 @@ REPOSITORY STRUCTURE
 
 ```
 
+POSSIBILI PROBLEMI
+
+Se si utilizza CLion si deve fare attenzione al CMakeList poichè ha come percorso una cartella progetto eventualemente modificare in locale
