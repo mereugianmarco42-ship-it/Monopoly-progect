@@ -1,20 +1,20 @@
 [
 {
-  "directory": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\main.c.obj -c C:\\Users\\mereu\\Documents\\GitHub\\monopoly-mereugianmarco42-ship-it\\main.c",
-  "file": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/main.c",
-  "output": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/main.c.obj"
+  "directory": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\main.c.obj -c C:\\Users\\mereu\\Desktop\\Progetto\\Monopoly-progect\\monopoly-mereugianmarco42-ship-it\\main.c",
+  "file": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/main.c",
+  "output": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/main.c.obj"
 },
 {
-  "directory": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\Funzioni.c.obj -c C:\\Users\\mereu\\Documents\\GitHub\\monopoly-mereugianmarco42-ship-it\\Funzioni.c",
-  "file": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/Funzioni.c",
-  "output": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/Funzioni.c.obj"
+  "directory": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\Funzioni.c.obj -c C:\\Users\\mereu\\Desktop\\Progetto\\Monopoly-progect\\monopoly-mereugianmarco42-ship-it\\Funzioni.c",
+  "file": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/Funzioni.c",
+  "output": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/Funzioni.c.obj"
 },
 {
-  "directory": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\Monopoly.c.obj -c C:\\Users\\mereu\\Documents\\GitHub\\monopoly-mereugianmarco42-ship-it\\Monopoly.c",
-  "file": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/Monopoly.c",
-  "output": "C:/Users/mereu/Documents/GitHub/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/Monopoly.c.obj"
+  "directory": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -g -std=gnu99 -fdiagnostics-color=always -o CMakeFiles\\Progetto.dir\\Monopoly.c.obj -c C:\\Users\\mereu\\Desktop\\Progetto\\Monopoly-progect\\monopoly-mereugianmarco42-ship-it\\Monopoly.c",
+  "file": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/Monopoly.c",
+  "output": "C:/Users/mereu/Desktop/Progetto/Monopoly-progect/monopoly-mereugianmarco42-ship-it/cmake-build-debug/CMakeFiles/Progetto.dir/Monopoly.c.obj"
 }
 ]

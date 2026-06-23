@@ -681,32 +681,38 @@ void pagamento_Pedaggio(Casella* casella,Giocatore* giocatore,Carta* carta,int n
     if (casella->scrivania) {
         printf("%d",(casella->costoCasella*PROFITTO_SCRIVANIA)/PERCENTUALE);
         giocatore->cfu-=(casella->costoCasella*PROFITTO_SCRIVANIA)/PERCENTUALE;
+        casella->occupante->cfu+=(casella->costoCasella*PROFITTO_SCRIVANIA)/PERCENTUALE;
 
     }else {
         switch (casella->numSedie) {
             case ZERO_SEDIE:
                 printf("%d",(casella->costoCasella*PROFITTO_AULA)/PERCENTUALE);
                 giocatore->cfu-=(casella->costoCasella*PROFITTO_AULA)/PERCENTUALE;
+                casella->occupante->cfu+=(casella->costoCasella*PROFITTO_AULA)/PERCENTUALE;
                 break;
 
             case UNA_SEDIA:
                 printf("%d",(casella->costoCasella*PROFITTO_SEDIA1)/PERCENTUALE);
                 giocatore->cfu-=(casella->costoCasella*PROFITTO_SEDIA1)/PERCENTUALE;
+                casella->occupante->cfu+=(casella->costoCasella*PROFITTO_SEDIA1)/PERCENTUALE;
                 break;
 
             case DUE_SEDIE:
                 printf("%d",(casella->costoCasella*PROFITTO_SEDIA2)/PERCENTUALE);
                 giocatore->cfu-=(casella->costoCasella*PROFITTO_SEDIA2)/PERCENTUALE;
+                casella->occupante->cfu+=(casella->costoCasella*PROFITTO_SEDIA2)/PERCENTUALE;
                 break;
 
             case TRE_SEDIE:
                 printf("%d",(casella->costoCasella*PROFITTO_SEDIA3)/PERCENTUALE);
                 giocatore->cfu-=(casella->costoCasella*PROFITTO_SEDIA3)/PERCENTUALE;
+                casella->occupante->cfu+=(casella->costoCasella*PROFITTO_SEDIA3)/PERCENTUALE;
                 break;
 
             case MAX_SEDIE:
                 printf("%d",(casella->costoCasella*PROFITTO_SEDIA4)/PERCENTUALE);
                 giocatore->cfu-=(casella->costoCasella*PROFITTO_SEDIA4)/PERCENTUALE;
+                casella->occupante->cfu+=(casella->costoCasella*PROFITTO_SEDIA4)/PERCENTUALE;
                 break;
 
             default:
