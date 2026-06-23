@@ -1,0 +1,237 @@
+0
+1
+MAURO SEDUTO
+Mauro ti ha beccato mentre fumi nel corridoio, paga 50cfu.
+0
+1
+0 50 0
+1
+1
+GIOVANNA D'ARCO
+L'Aula Magna di Matematica e' andata a fuoco, se e' di tua proprieta' paga 100cfu, altrimenti salta un turno.
+1
+2
+0 100 0
+3 1 0
+2
+1
+IL LUPO PERDE IL PELO
+Hai ricominciato a giocare a lol, salta il turno successivo.
+0
+1
+3 1 0
+3
+1
+LIBERTA'
+Hai fatto rinuncia agli studi. Perdi tutti i cfu.
+0
+1
+1 1 0
+4
+1
+WHITE NOISE
+La motopompa nel Lab T impedisce di fare lezione, perdi 50cfu perche' non hai superato l'esame.
+0
+1
+0 50 0
+5
+1
+F(NULL)
+La Prof.ssa Carrisi ha messo il tutoraggio nelle ore di ricevimento di PR1. Perdi 100cfu perche' non hai capito i puntatori.
+0
+1
+0 100 0
+6
+1
+GAMBLING
+Vai alle macchinette a prenderti una coca, ma la macchinetta ti frega 10cfu. Provi a riprenderla e ti frega altri 10cfu.
+0
+1
+0 20 0
+7
+1
+PAYDAY
+Vai alle macchinette a prenderti una coca, ma la macchinetta ti frega 10cfu. Provi a riprenderla e ti restituisce 100cfu. Piu' la coca.
+0
+1
+2 90 0
+8
+1
+FAST AND FURIOSI
+Hai bucato una gomma nei parcheggi del Palazzo, usa 75cfu per pagare il carro attrezzi.
+0
+1
+0 75 0
+9
+1
+IL MIGLIO VERDE
+Esci dalla BatCaverna.
+0
+1
+5 0 0
+10
+1
+PROFONDO ROSSO
+Il prorettore ha scoperto che stai occupando le aule. Per ogni sedia posseduta paga 20cfu e per ogni scrivania paga 50cfu.
+0
+2
+1 20 0
+1 50 0
+11
+1
+UNDERFLOW
+Te ne vai 10 minuti dopo l'inizio della lezione ma prof. Puglisi fa il contrappello. Salta il turno successivo.
+0
+1
+3 1 0
+12
+1
+HIGHLANDER
+Sei sopravvissuto all'orale della Prof.ssa Carrisi. Guadagni 20cfu.
+0
+1
+2 20 0
+13
+1
+SE MI LASCI TI CANCELLO
+Non hai salvato il compito nella partizione Z e il pc si e' riavviato da solo. Devi fare di nuovo il compito. Fai un altro turno.
+0
+1
+4 1 0
+14
+1
+OPPENHEIMER
+Hai gia' dato l'esame di fisica, passi gli appunti a due colleghi. Cedi un'aula a testa per farli studiare.
+0
+1
+8 2 0
+15
+1
+TOKYO GHOUL
+Crolla il soffitto di una tua aula e la perdi. L'universita' ti rimborsa 20cfu.
+1
+2
+8 1 0
+2 20 0
+16
+1
+MATRIX REVOLUTION
+Hai incontrato i tutor nell'androne e ti hanno spiegato le matrici. Guadagni 20cfu.
+0
+1
+2 20 0
+17
+1
+INTERSTELLAR
+Ti sei presentato troppe volte a ricevimento di Prof. Loddo. Salti il prossimo turno.
+0
+1
+3 1 0
+18
+1
+JOKER
+Prof. Loddo ti ha beccato a occupare le aule. Vai in BatCaverna senza passare dal via.
+0
+1
+7 0 8
+19
+1
+DJKSTRA
+Hai dimenticato il pranzo. Vai nella mensa piu' vicina.
+0
+1
+7 0 2
+20
+1
+FORREST GUMP
+Hai dimenticato il pranzo ma la mensa piu' vicina e' piena. Vai nella mensa piu' lontana.
+0
+1
+6 0 2
+21
+1
+UN PONTE PER TERABITHIA
+Il tuo collega preferito ti ha parlato di un posto magico a Palazzo. Indietreggia di due caselle.
+0
+1
+6 2 0
+22
+1
+JUMANJI
+Sei caduto dalle scale. Di tre caselle devi avanzare.
+0
+1
+7 3 0
+23
+1
+LALALAND
+Hai finito il secondo parziale di PR1 ma hai dimenticato nome cognome e matricola. Vai al parcheggio, piangendo.
+0
+1
+7 0 3
+24
+1
+SBRUNCARE
+Hai gia' fatto programmazione alle superiori. Guadagni 20cfu perche' hai passato brillantemente il primo parziale ma salti il prossimo turno perche' hai cannato il secondo.
+1
+2
+2 20 0
+3 1 0
+25
+1
+ZONA FRANCA
+Stanno cadendo i cortiggioni dell'aula che hai occupato abusivamente, seleziona un'aula casualmente e paga la sanzione 30cfu per sedia e/o scrivania, altrimenti vai in BatCaverna senza passare dal via.
+1
+2
+1 30 0
+7 0 8
+26
+1
+TRE SEDIE E UNA GAMBA
+Le sedie che hai comprato hanno solo una gamba, devi comprare nuove gambe, usando 15cfu per gamba
+0
+1
+1 45 0
+27
+1
+DAKI
+Hai comprato le scrivanie e le sedie in periodo natalizio, l' uomo focaccina le ha fatte di marzapane. Ora stanno marcendo e devi usare 30cfu per scrivania e 15cfu per sedia per rifarle in legno.
+1
+2
+1 30 0
+1 15 0
+28
+1
+BREGUNGIA
+Sei stato beccato a copiare il progetto di PR1, devi ripetere PR1 il prossimo anno, salta un turno, e vergognati.
+0
+1
+3 1 0
+29
+1
+SCARAFAGGI-SCA-SCA
+Hai seguito il flusso di blatte e sei riuscito a uscire dalla BatCaverna.
+0
+1
+5 0 0
+30
+1
+BLACKOUT
+Per l'ennesima volta manca la corrente a Palazzo. Puoi uscire subito dalla BatCaverna.
+0
+1
+5 0 0
+31
+1
+IL GUARDIANO
+Hai trovato le chiavi di Mauro, puoi usarle per uscire subito dalla BatCaverna.
+0
+1
+5 0 0
+32
+1
+PAUSETTA
+Prof. Loddo ha dato 5 minuti di pausa. Che sono diventati 10. Che sono diventati 15. Che sono diventati salta il prossimo turno.
+0
+1
+3 1 0
